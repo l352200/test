@@ -3,9 +3,10 @@ import axios from "axios";
 //引入进度条
 import nprogress from "nprogress";
 //
+// @ts-ignore
 import store from '@/store'
 //引入进度条样式
-
+//
 import "nprogress/nprogress.css"
 
 // 利用axios对象方法create 创建一个axios实例
