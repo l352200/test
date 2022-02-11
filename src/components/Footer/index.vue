@@ -17,7 +17,7 @@
                         <h4>配送方式</h4>
                         <ul class="footerItemCon">
                             <li>上门自提</li>
-                            <li>211限时达</li>
+                            <li>221限时达</li>
                             <li>配送服务查询</li>
                             <li>配送费收取标准</li>
                             <li>海外配送</li>
